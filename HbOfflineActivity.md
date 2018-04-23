@@ -48,3 +48,30 @@ https://github.com/OpenMindClub/Share/wiki/HbHostActivity
 
 * CHANGELOG
 
+
+### 更多输出导向的活动组织参考
+
+开源社区与开智活动的基本精神：**谁发起谁负责。**
+
+用作品说话，作品可以是一张清单总结，一篇文章，一次活动，一回分享，一个课程，一本书，一家公司。
+
+用作品说话，做项目大于做题目。
+
+群体大于个体。在做项目中，一起协作,发展领导力,协作能力,创新能力和独立思考能力。你我从实践中训练来提升自己能力。
+
+[EventC2T2 · OpenMindClub/PRD Wiki](https://github.com/OpenMindClub/PRD/wiki/EventC2T2)
+
+
+[珠海GDG社区管理手册 | GDG Livin ZhuHai Life;-)](http://blog.zhgdg.org/2013-04/zhgdg-org-manual/)
+
+
+每一次活动，都不要忘记总结，总结再总结。
+
+每次活动尽可能收集有:
+
+* 照片
+* 文字
+* 幻灯
+* 录音
+* 录像
+
