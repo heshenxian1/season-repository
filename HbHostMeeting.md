@@ -1,9 +1,17 @@
 HbHostMeeting.md
 
+共创会议-- 开会是个技术活
+
+开会之前不妨多问三个问题：
+
+**开会的目的议程是什么？会议的成本几何？开会的体验记忆怎样？**
+
 HbHostMeeting.md
 
 共创活动发起人、主持人指南
+
 HbHostCollaborateMeeting
+
 https://github.com/OpenMindClub/Share/wiki/HbHostCollaborateMeeting
 
 
@@ -12,6 +20,7 @@ https://github.com/OpenMindClub/Share/wiki/HbHostCollaborateMeeting
 
 
 会议，是同步沟通。
+
 邮件和Github，以及微信等IM软件，往往都是异步沟通。
 
 ### 如果让参与者下次更乐意参加？
@@ -21,6 +30,7 @@ https://github.com/OpenMindClub/Share/wiki/HbHostCollaborateMeeting
 给大伙儿营造独特记忆
 
 —— 参与状态很重要，参与记忆很重要。
+
 —— 峰终效应，人生体验律
 
 **成功易带来成功，失败易带来什么……** 你觉得呢？
