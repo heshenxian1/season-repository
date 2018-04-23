@@ -11,6 +11,14 @@ https://github.com/OpenMindClub/Share/wiki/IdxOfflineSpace
 [百场汇_踏春出游季_团建会议聚会活动一站式打包服务短租平台](http://www.baichanghui.com/)
 
 
+### 学友互助活动指南 | 开智学堂
+
+HbOMeeupOrganizer
+
+https://github.com/OpenMindClub/Share/wiki/HbOMeeupOrganizer
+
+
+开智学堂鼓励各地学友自行发起互助活动，交流进展、相互点评反馈、互助激励。特此起草学员互助活动指南，供各地学友互助活动组织者参考。
 
 ### 活动摄影操作指南
 HbPhotoChecklist
