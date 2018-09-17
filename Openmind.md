@@ -1,7 +1,7 @@
 开智直播--「边界与世界」，信息闭环：
 [你就是世界「边界与世界」主题分享 | 社群直播 · Issue #346 · OpenMindClub/OpenMindWorld](https://github.com/OpenMindClub/OpenMindWorld/issues/346)
 
-#你就是世界，用「边界」编织知识之网。
+# 你就是世界，用「边界」编织知识之网。
 --**「边界和世界」，开智「认知与改变」沙龙主题分享** 20170817
 
 # card 1
@@ -197,5 +197,15 @@
 我们都有压力，都有镣铐，而我们可以选择在压力中的行动，可以选择在镣铐里的态度。
 人生在于选择，那我们不妨选择，在压力中生长，带着镣铐起舞吧。
 
+
 记住，你就是世界。
 记住，不忘在生活中起舞，不忘把自己生长成一棵树……
+
+
+# 参考链接
+
+- [[170817]你就是世界「边界与世界」主题分享 | 社群直播 · Issue #346 · OpenMindClub/OpenMindWorld](https://github.com/OpenMindClub/OpenMindWorld/issues/346)
+
+- [170817你就是世界「边界与世界」主题分享 | 社群直播 · Issue #2 · heshenxian1/SeasonFile](https://github.com/heshenxian1/SeasonFile/issues/2)
+
+- [0806 盛夏鸣奏曲 | 开智部落 杭州聚会 · Issue #325 · OpenMindClub/OpenMindWorld](https://github.com/OpenMindClub/OpenMindWorld/issues/325)
